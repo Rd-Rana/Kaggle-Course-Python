@@ -6,3 +6,6 @@ Date: 27-02-2023
 
 Date: 28-02-2023
 - Lesson-3: Booleans and Conditionals => Using boolens for branching logic
+
+Date: 01-03-2023
+- Lesson-4: Lists => Lists and the things you can do with them. Includes indexing, slicing and mutating

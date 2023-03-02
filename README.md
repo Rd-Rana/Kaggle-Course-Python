@@ -9,3 +9,6 @@ Date: 28-02-2023
 
 Date: 01-03-2023
 - Lesson-4: Lists => Lists and the things you can do with them. Includes indexing, slicing and mutating
+
+Date: 02-03-2023
+- Lesson-5: Loops and List Comprehensions => For and while loops, and a much-loved Python feature: list comprehensions

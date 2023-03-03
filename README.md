@@ -12,3 +12,6 @@ Date: 01-03-2023
 
 Date: 02-03-2023
 - Lesson-5: Loops and List Comprehensions => For and while loops, and a much-loved Python feature: list comprehensions
+
+Date: 03-03-2023
+- Lesson-6: Strings and Dictionaries => Working with strings and dictionaries, two fundamental Python data types

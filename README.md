@@ -15,3 +15,6 @@ Date: 02-03-2023
 
 Date: 03-03-2023
 - Lesson-6: Strings and Dictionaries => Working with strings and dictionaries, two fundamental Python data types
+
+Date: 04-03-2023
+- Lesson-7: Working with External Libraries => Imports, operator overloading, and survival tips for venturing into the world of external libraries
